@@ -22,4 +22,13 @@
     
 ![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/AWS.PNG)
 ![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/status.png)
+![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/jenkins.png)
+![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/install1.png)
+![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/jenkinsui.png)
+![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/file.png)
+![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/pipeline%20running.png)
+![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/automation.png)
+![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/todo-list.png)
+
+
 
