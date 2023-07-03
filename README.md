@@ -19,4 +19,4 @@
 10. sudo systemctl status jenkins
 
 
-![Screenshot (128)](https://user-images.githubusercontent.com/63160366/235593195-a841a334-85fe-484a-b7fd-2254cf2c420a.png)
+![Screenshot (128)](C:\Users\DARK\Pictures\Screenshots\CI-CD PIPELINE)
