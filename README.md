@@ -18,5 +18,6 @@
 9.  sudo systemctl start jenkins
 10. sudo systemctl status jenkins
 
-
+                                                               <h2> - INSTANCE AND COMMAND EXECUTION -</h2>
+    
 ![Screenshot (128)](https://github.com/chauhan971/Jenkins-CI-CD/blob/main/AWS.PNG)
