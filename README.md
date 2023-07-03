@@ -19,4 +19,4 @@
 10. sudo systemctl status jenkins
 
 
-![Screenshot (128)](file:///C:/Users/DARK/Pictures/Screenshots/CI-CD%20PIPELINE/AWS.PNG)
+![Screenshot (128)]("file:///C:/Users/DARK/Pictures/Screenshots/CI-CD%20PIPELINE/AWS.PNG")
